@@ -52,6 +52,7 @@ We are looking for expertise from browser UI to devops, so if your skills fall s
 
 ## What You'll Love About Dequency
 
+- **We're curious.** We want to make _web3 × music_ happen in ways that benefit everyone involved.
 - **We're humble.** We readily admit what we don't know, and are willing to listen to other people.
 - **We value you as a person.** We expect everyone to show up and contribute, but we also honor that you're more than your job—we all deal with the unexpected in life, we all have times when we need more support.
 - **We want you to recharge.** We know you'll do your best work if you're well rested and relaxed. We have a flexible time-off policy and we mean it.
