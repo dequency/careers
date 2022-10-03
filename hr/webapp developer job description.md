@@ -23,7 +23,7 @@ We are looking for expertise from browser UI to devops, so if your skills fall s
 ### Tools We Use
 
 - Semantic HTML
-- CSS (we currently use Tailwind, but that may not be the case going forward)
+- CSS (we currently use [MUI](https://mui.com), but will switch to plain or Tailwind CSS styled components going forward)
 - JavaScript: React, DOM APIs, Node APIs
 - GitHub tools and GitHub Actions
 - JWT-based single sign-on
