@@ -57,3 +57,11 @@ We are looking for expertise from browser UI to devops, so if your skills fall s
 - **We value you as a person.** We expect everyone to show up and contribute, but we also honor that you're more than your job—we all deal with the unexpected in life, we all have times when we need more support.
 - **We want you to recharge.** We know you'll do your best work if you're well rested and relaxed. We have a flexible time-off policy and we mean it.
 - **We're an eclectic bunch.** We have a small and diverse group of folks, we'd love it if you bring new cultural, professional, or life experiences to the mix.
+
+## How to Apply
+
+Email <dev-jobs@dequency.io> with the following:
+
+- A little intro about yourself—what makes you stand out?
+- Links to projects or code that represent your current development skills.
+- GitHub or LinkedIn profile, or resume (in HTML, PDF, or markdown).
